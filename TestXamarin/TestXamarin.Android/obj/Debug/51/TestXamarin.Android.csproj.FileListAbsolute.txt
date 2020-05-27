@@ -1,0 +1,3 @@
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\51\MonoAndroid,Version=v5.1.AssemblyAttributes.cs
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\51\build.props
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin.Android\obj\Debug\51\adb.props

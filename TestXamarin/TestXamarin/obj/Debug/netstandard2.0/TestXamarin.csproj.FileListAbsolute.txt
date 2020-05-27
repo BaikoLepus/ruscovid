@@ -1,0 +1,14 @@
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\bin\Debug\netstandard2.0\TestXamarin.deps.json
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\bin\Debug\netstandard2.0\TestXamarin.dll
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\TestXamarin.csprojAssemblyReference.cache
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\TestXamarin.AssemblyInfoInputs.cache
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\TestXamarin.AssemblyInfo.cs
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\bin\Debug\netstandard2.0\ref\TestXamarin.dll
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\bin\Debug\netstandard2.0\TestXamarin.pdb
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\TestXamarin.csproj.CoreCompileInputs.cache
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\TestXamarin.dll
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\ref\TestXamarin.dll
+C:\Users\theba\source\repos\TestXamarin\TestXamarin\TestXamarin\obj\Debug\netstandard2.0\TestXamarin.pdb
